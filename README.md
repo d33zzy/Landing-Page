@@ -1,1 +1,1 @@
-# Landing-Page
+# This project is practice for using flexbox :))
